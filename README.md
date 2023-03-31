@@ -11,5 +11,6 @@ pip install -r requirements.txt
 # Run
 
 ```
+./download_datasets.sh
 python code/run_experiments.py
 ```
